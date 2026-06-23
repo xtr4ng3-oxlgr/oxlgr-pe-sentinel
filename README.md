@@ -300,10 +300,11 @@ No debe usarse para justificar acusaciones automáticas sobre un archivo ni para
 ---
 
 
-## Licencia
+# Licencia
 
-<img width="384" height="384" alt="giphy (4)" src="https://github.com/user-attachments/assets/18d64b9e-fba8-493e-8462-f6722e0e64b7" />
+<img width="300" height="159" alt="giphy (25)" src="https://github.com/user-attachments/assets/021720ff-3aec-4916-9a93-25d47afd7d97" />
 
 **xtr4ng3**
 
 MIT.
+
