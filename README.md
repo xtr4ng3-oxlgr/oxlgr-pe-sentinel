@@ -296,6 +296,11 @@ No debe usarse para justificar acusaciones automáticas sobre un archivo ni para
 ---
 ---
 
+
 ## Licencia
 
-MIT. Gratis para usar, estudiar, modificar y compartir.
+<img width="384" height="384" alt="giphy (4)" src="https://github.com/user-attachments/assets/18d64b9e-fba8-493e-8462-f6722e0e64b7" />
+
+**xtr4ng3**
+
+MIT.
