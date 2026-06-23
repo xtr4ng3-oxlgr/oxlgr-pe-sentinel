@@ -1,5 +1,8 @@
 # OXLGR PE Sentinel
 
+<img width="1672" height="941" alt="oxlgrpe" src="https://github.com/user-attachments/assets/263fbbb0-5d6e-448b-afa1-1294769b7aac" />
+
+
 **OXLGR PE Sentinel** es una herramienta corporativa de análisis estático defensivo para ejecutables Windows **PE** (`.exe`, `.dll`, `.sys`) escrita en **C++17**.
 
 Fue diseñada para equipos de seguridad, analistas blue team, estudiantes avanzados, laboratorios de malware analysis, inventarios defensivos y procesos de triage donde se necesita una primera lectura técnica de un binario sin ejecutarlo.
