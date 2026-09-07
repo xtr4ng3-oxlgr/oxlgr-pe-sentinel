@@ -299,11 +299,7 @@ No debe usarse para justificar acusaciones automáticas sobre un archivo ni para
 
 ---
 
-## Topics sugeridos para GitHub
 
-`ciberseguridad` · `analisis-defensivo` · `pe-format` · `malware-analysis` · `static-analysis` · `entropy` · `cpp` · `cplusplus` · `windows` · `reverse-engineering` · `blue-team` · `threat-hunting` · `security-tools` · `xtr4ng3-oxlgr`
-
----
 
 ## Licencia
 
