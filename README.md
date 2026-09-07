@@ -1,4 +1,5 @@
-# OXLGR PE Sentinel (OLD)
+# OXLGR PE Sentinel
+![CMake](https://github.com/xtr4ng3-oxlgr/oxlgr-pe-sentinel/actions/workflows/cmake.yml/badge.svg)
 
 <img width="1672" height="941" alt="oxlgr-pe" src="https://github.com/user-attachments/assets/30fda4ca-7c8e-42c6-a821-93f16f7b7e3d" />
 
