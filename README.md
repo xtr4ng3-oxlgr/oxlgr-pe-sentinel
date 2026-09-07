@@ -1,4 +1,7 @@
-# OXLGR PE Sentinel
+# OXLGR PE Sentinel (OLD)
+
+<img width="1672" height="941" alt="oxlgr-pe" src="https://github.com/user-attachments/assets/30fda4ca-7c8e-42c6-a821-93f16f7b7e3d" />
+
 
 **OXLGR PE Sentinel** es una herramienta corporativa de análisis estático defensivo para ejecutables Windows **PE** (`.exe`, `.dll`, `.sys`) escrita en **C++17**.
 
@@ -302,5 +305,10 @@ No debe usarse para justificar acusaciones automáticas sobre un archivo ni para
 ---
 
 ## Licencia
+
+<img width="300" height="159" alt="xtr4ng3" src="https://github.com/user-attachments/assets/b6f29289-d2d2-4953-b7e9-0c76f151501d" />
+
+
+## XTR4NG3
 
 MIT. Gratis para usar, estudiar, modificar y compartir.
