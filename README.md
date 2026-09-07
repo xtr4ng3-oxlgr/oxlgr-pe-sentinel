@@ -2,6 +2,7 @@
 
 <img width="1672" height="941" alt="oxlgr-pe" src="https://github.com/user-attachments/assets/30fda4ca-7c8e-42c6-a821-93f16f7b7e3d" />
 
+![CMake](https://github.com/xtr4ng3-oxlgr/oxlgr-pe-sentinel/actions/workflows/cmake.yml/badge.svg)
 
 **OXLGR PE Sentinel** es una herramienta corporativa de análisis estático defensivo para ejecutables Windows **PE** (`.exe`, `.dll`, `.sys`) escrita en **C++17**.
 
