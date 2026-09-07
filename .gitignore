@@ -1,0 +1,27 @@
+# Build
+build/
+out/
+dist/
+*.obj
+*.o
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.a
+
+# Reports
+reports/
+*.json
+*.md.tmp
+
+# IDE
+.vscode/
+.idea/
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
